@@ -1,0 +1,1 @@
+initSidebarItems({"static":[["EDGES_MAP","The map for edges."],["MAX_EDGES_NUM","The max count of edges tracked."]]});
